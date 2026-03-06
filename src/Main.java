@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("pr 2 git trial");
         System.out.println("the change made to test push first in the branch");
+        System.out.println("the second change made to test push first in the branch");
     }
 }
